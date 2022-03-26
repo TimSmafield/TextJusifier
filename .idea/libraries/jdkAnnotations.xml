@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdkAnnotations">
+    <ANNOTATIONS>
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
