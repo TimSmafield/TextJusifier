@@ -3,7 +3,7 @@
 Written Java 1.12
 
 installation:
-Intellj:  Welcome to intellj -> Get from VLC 
+Intellij:  Welcome to Intellij -> Get from VLC 
 enter given GIT URL and press clone
 Open src/TextJusifier.java and right click the main function and select "modify run configurations"
 Enter desired CLI arguments for example: "This is text " 30
@@ -24,4 +24,4 @@ The Program calculated the length of the spaces by dividing the deficit by the #
 We need to account for the remainder r, so the program adds an extra length to r spaces. 
 The program reconstructs the string with those calculated spaces.
 
-JUnits are localed in src/TextJusifierTest.java using JUnit5.7.0
+JUnits are located in src/TextJusifierTest.java using JUnit5.7.0
