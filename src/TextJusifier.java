@@ -19,7 +19,7 @@ public class TextJusifier {
      *  count the length of string without whitespace
      *  The difference between this length and the desired length is the deficit
      *  next the program counts how many words exist in the text
-     *  This tells us how many spaces we can use to ped the string to fill the deficit
+     *  This tells us how many spaces we can use to pad the string to fill the deficit
      *  Spaces =  # of words - 1
      *  The Program calculated the length of the spaces by dividing the deficit by the # of spaces.
      *   We need to account for the remainder r, so the program adds an extra length to r spaces.
