@@ -1,6 +1,18 @@
 # TextJusifier
 
-Coded in Java 1.12
+Written Java 1.12
+
+installation:
+Intellj:  Welcome to intellj -> Get from VLC 
+enter given GIT URL and press clone
+Open src/TextJusifier.java and right click the main function and select "modify run configurations"
+Enter desired CLI arguments for example: "This is text " 30
+hit apply and ok
+right click main function and select "TextJusifier.main()" 
+Program should run.
+
+Alternatively with command line you can clone the repo and run javac TextJusifier.java
+Run java TextJusifier "This is some text." 50
 
 How it works:
 The general approach is as follows: count the length of string without whitespace
@@ -12,6 +24,4 @@ The Program calculated the length of the spaces by dividing the deficit by the #
 We need to account for the remainder r, so the program adds an extra length to r spaces. 
 The program reconstructs the string with those calculated spaces.
 
-installation:
-Intellj:  Welcome to intellj -> Get from VLC 
-enter given GIT URL 
+JUnits are localed in src/TextJusifierTest.java using JUnit5.7.0
