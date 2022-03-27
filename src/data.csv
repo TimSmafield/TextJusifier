@@ -1,0 +1,6 @@
+input
+All race conditions deadlock conditions and concurrent update problems are due to mutable variables. ― Robert C. Martin
+Inside every large program is a small program struggling to get out. ― Tony Hoare
+The quick brown fox jumps over the lazy dog.
+In text processing one approach to making a document appealing to the eye is to justify text.
+For this problem we would like you to think of a single line of text and return a justified string.
